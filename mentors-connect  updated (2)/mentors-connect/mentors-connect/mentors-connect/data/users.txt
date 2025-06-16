@@ -1,0 +1,22 @@
+mentor|asmita|123
+mentor|Balreet|123|python
+mentor|Ani|123|python
+mentor|Amit|123|DSA
+mentor|Amy|123|Data Science
+mentor|Aniket|123|Data Science
+mentor|Gaurav|123|Web Development
+mentor|Dhruv|123|Java
+mentor|Vishal|123|Java
+mentor|Abu|123|Java
+mentor|raji|123|Data Science
+
+
+
+mentee|A|123
+mentee|B|123
+mentee|C|123
+mentee|D|123
+mentee|E|123
+mentee|RIYA|123
+mentor|Utsav|123|DSA
+mentee|Bhavii|123
